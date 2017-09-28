@@ -1,0 +1,9 @@
+INDEX VERSION 1.3+C:\Users\Palugudi\workspace\CRUD-angular\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1870934879.index
+1366718147.index
+1310176936.index
+808789461.index
+1341840313.index
+3285584722.index
+2336165351.index
+762491068.index
